@@ -1,0 +1,19 @@
+Download and install python 3.14.x from python.org and install it.
+While installing there is path checkbox which you will have to tick for setting up python path such that python command works perfectly.
+Check if your python is working fine in CMD/Terminal by typing python --version and it should return the correct python version.
+
+IDE: Integrated Development Environment
+1. Pycharm
+2. Vs Code (AI Version Cursor)
+3. Jupyter Notebook
+
+Test if pip path is setup automatically:-
+pip --version
+
+Install Jypyter notebook with this command:-
+pip install notebook
+
+jupyter --version
+
+Run the Jypyter notebook:-
+python -m jupyter notebook
