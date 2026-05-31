@@ -1,19 +1,29 @@
-Download and install python 3.14.x from python.org and install it.
-While installing there is path checkbox which you will have to tick for setting up python path such that python command works perfectly.
-Check if your python is working fine in CMD/Terminal by typing python --version and it should return the correct python version.
+# Python Setup in Local System
+Step 1. Download and install python 3.14.x from python.org and install it but
+while installing there is path checkbox which you will have to tick for
+setting up python path such that python command works perfectly.
+Step 2. Check if your python is working fine in CMD/Terminal by
+typing python --version which should return correct python version.
 
-IDE: Integrated Development Environment
+# IDE: Integrated Development Environment
 1. Pycharm
 2. Vs Code (AI Version Cursor)
-3. Jupyter Notebook
+3. Jupyter Notebook - We will use this
 
-Test if pip path is setup automatically:-
+# Install and Setup Jupyter Notebook
+Step 1. Test if pip path is set up automatically:-
 pip --version
 
-Install Jypyter notebook with this command:-
+Step 2. Install Jupyter notebook with this command:-
 pip install notebook
 
+Step 3. Check if jupyter path is seu up automatically:-
 jupyter --version
 
-Run the Jypyter notebook:-
+Step 4. Run the Jupyter notebook:-
 python -m jupyter notebook
+
+Step 5. Enjoy writing code in python
+
+# Note: If you stuck in path setup, consider using any LLM Chat tools like
+ChatGPT, Claude, etc. they are super helpful with this routine work.
