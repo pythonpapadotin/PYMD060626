@@ -1,0 +1,4 @@
+Numpy is library in python
+Pandas is a library to parse large csv files and work on them.
+Matplotlib is a library to create visualization on the data
+scikit learn is another interesting ml library!
